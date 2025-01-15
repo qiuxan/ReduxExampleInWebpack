@@ -1,0 +1,11 @@
+/* add some simple css for html and body */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+button{
+    width: 100px;
+}
